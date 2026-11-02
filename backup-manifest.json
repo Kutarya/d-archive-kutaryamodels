@@ -1,0 +1,92 @@
+{
+  "root": "D:\\KutaryaModels",
+  "date": "2026-11-02",
+  "files": [
+    {
+      "path": "Qwen3-4B\\Qwen3-4B-Q6_K.gguf",
+      "size": 3306260704,
+      "mtime_ns": 1790506276431082100,
+      "sha256": "8a08533841623c2a689763b9318d8e27b3e052ad5b38015d4be4c04fa96f68a3",
+      "crc32": "DF647304"
+    },
+    {
+      "path": "SegFormer-B0-ADE20K\\.cache\\huggingface\\.gitignore",
+      "size": 1,
+      "mtime_ns": 1790531460856129400,
+      "sha256": "684888c0ebb17f374298b65ee2807526c066094c701bcc7ebbe1c1095f494fc1",
+      "crc32": "09B9265B"
+    },
+    {
+      "path": "SegFormer-B0-ADE20K\\.cache\\huggingface\\CACHEDIR.TAG",
+      "size": 195,
+      "mtime_ns": 1790531460751145800,
+      "sha256": "e8893e2dcb3f4545ef67a0a5b7b769113d38eef1aa61c7c7ba14659b02af955f",
+      "crc32": "1B1E88F2"
+    },
+    {
+      "path": "SegFormer-B0-ADE20K\\.cache\\huggingface\\download\\README.md.metadata",
+      "size": 104,
+      "mtime_ns": 1790531461780807700,
+      "sha256": "753dbc60d54080f593f64f89344ee313485775293c8526cd97f5332265772eb2",
+      "crc32": "6DD426B5"
+    },
+    {
+      "path": "SegFormer-B0-ADE20K\\.cache\\huggingface\\download\\config.json.metadata",
+      "size": 104,
+      "mtime_ns": 1790531461141067900,
+      "sha256": "4222e7f306d82dcc764acebd2069ac206934e2dfa2f762c8117ab1cec4dbcfe9",
+      "crc32": "E00615B0"
+    },
+    {
+      "path": "SegFormer-B0-ADE20K\\.cache\\huggingface\\download\\model.safetensors.metadata",
+      "size": 128,
+      "mtime_ns": 1790531472713319400,
+      "sha256": "57652dc8fb1913ca590b9a2d79ee8291d178f9aff677a566dfa1c196b1bf197d",
+      "crc32": "A905718D"
+    },
+    {
+      "path": "SegFormer-B0-ADE20K\\.cache\\huggingface\\download\\preprocessor_config.json.metadata",
+      "size": 104,
+      "mtime_ns": 1790531461354630400,
+      "sha256": "1105380c62779ef7e9f1e6af8598de2b489018f212715e8c6a93063f939f509d",
+      "crc32": "5CF624F3"
+    },
+    {
+      "path": "SegFormer-B0-ADE20K\\.cache\\huggingface\\trees\\489d5cd81a0b59fab9b7ea758d3548ebe99677da.json",
+      "size": 1381,
+      "mtime_ns": 1790531460745589400,
+      "sha256": "88fe8853fbf117ff02a8149751343bdb1d2112f9d4442dfa9ab67c8e6c639638",
+      "crc32": "E5D035A1"
+    },
+    {
+      "path": "SegFormer-B0-ADE20K\\README.md",
+      "size": 3189,
+      "mtime_ns": 1790531461778806500,
+      "sha256": "a738172c9395b26f14e1981f6a95885085cc1239210446d752bf30ad6a9b8538",
+      "crc32": "62BA3838"
+    },
+    {
+      "path": "SegFormer-B0-ADE20K\\config.json",
+      "size": 6884,
+      "mtime_ns": 1790531461126322900,
+      "sha256": "209caa9091e4632f7c8883c11170cd08ad29af68b23c09590aa4a5befb1a2a7f",
+      "crc32": "7365C043"
+    },
+    {
+      "path": "SegFormer-B0-ADE20K\\model.safetensors",
+      "size": 15036944,
+      "mtime_ns": 1790531472699782100,
+      "sha256": "6ae39addd01de6b1b8bde2cf677d43a5cd733424b8d186de3f95d1c51fee23f9",
+      "crc32": "0B6CDBD9"
+    },
+    {
+      "path": "SegFormer-B0-ADE20K\\preprocessor_config.json",
+      "size": 271,
+      "mtime_ns": 1790531461353278100,
+      "sha256": "8039d1d210abaa7117ad78e58cdfd6141a2ec72c03dae891b3cd76737e422c6c",
+      "crc32": "84C13AA7"
+    }
+  ],
+  "empty_directories": [],
+  "links": []
+}
